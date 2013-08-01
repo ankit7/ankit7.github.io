@@ -1,11 +1,9 @@
 ---
-author: abbot
-comments: false
 date: 2010-08-21 15:35:13+00:00
-layout: page
+layout: default
 slug: contact
 title: Contact me
-wordpress_id: 114
+
 ---
 
 Questions? Just ask.
