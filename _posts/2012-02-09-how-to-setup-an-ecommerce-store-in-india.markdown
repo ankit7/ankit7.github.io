@@ -1,12 +1,9 @@
 ---
 date: 2012-02-09 20:22:42+00:00
-layout: default
+layout: post
 slug: how-to-setup-an-ecommerce-store-in-india
 title: How to setup an eCommerce Store in India?
-wordpress_id: 908
-categories:
-- E-Commerce
-- India
+
 ---
 
 Indian e-commerce sector is booming. I see a new online store every week. Facebook ads are filled by new cloths, electronics, footwear etc. 

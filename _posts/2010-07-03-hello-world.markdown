@@ -1,6 +1,4 @@
 ---
-author: abbot
-comments: true
 date: 2010-07-03 07:29:29+00:00
 layout: post
 slug: hello-world
