@@ -40,7 +40,7 @@ Note: I'm only covering the Technical part here. Marketing, Legal and management
 ## How to build an online store in India
 
 
-What I'm going to recommend is only suitable for Small Business owners. If you've a small team (or only you), small budget and some cool products, these solutions will help you to build your own store easily.<!-- more -->
+What I'm going to recommend is only suitable for Small Business owners. If you've a small team (or only you), small budget and some cool products, these solutions will help you to build your own store easily.
 
 If you've got a good budget and big team, I would recommend to you consult the e-commerce Developers. They may have better solutions to suit your requirements.
 
@@ -61,23 +61,33 @@ I've joined the Platform and supported gateways together. Note: I'm not reviewi
 #### **1) Shopify for India with DirecPay/PayU (The Easiest)**
 
 
-![Shopify India](http://ankitkumar.in/wp-content/uploads/300px-Shopify-bag-and-logotype1.png)
+![Shopify India](http://s3-ap-southeast-1.amazonaws.com/ankitkumar/images/Shopify-logo.png)
 
 No doubt, [Shopify](http://bit.ly/ak-shopify) is the easiest way to start your own store. It's more merchant friendly and has bigger integration portfolio. It has wonderful support for mobile devices. [Shopify](http://bit.ly/ak-shopify) also offers support for Mobile Commerce and your customer can shop using their mobile.
+
 DirecyPay used to be the single option as a payment gateway for Indian retailers. Shopify recently added PayU as additional payment gateway and now things are easier.
+
 **Like:**
+
 Easiest and fastest
+
 Mobile Commerce
+
 Awesome Support (Phone/Email/Forum)
+
 Hosted Platform (No need for IT team/person and hosting)
+
 Suitable for even one-man Business
+
 Apps marketplace has more services than any other platform
+
 Beautiful themes and designs
+
 **Dislike:**
-Monthly Charges (But it's totally worth it)
+
 Transaction Cost (Not applicable if you've upgraded plan)
 
-****
+
 
 
  **Links:**
@@ -97,17 +107,21 @@ Transaction Cost (Not applicable if you've upgraded plan)
 
 
 Most of the Indian stores are using [Magento](http://www.magentocommerce.com/). Magento is powerful, open source and free for community edition. It's feature packed and integrates with lots of services to offer a good merchant experience.
-It has some [modules ](http://www.magentocommerce.com/magento-connect/integrations/payment-gateways.html?id=12848&s=1&pl=0&te=0&q=India&pr=0:635&t=0&p=1)which support Indian Payment gateways.
+
+It has some [modules ](http://www.magentocommerce.com/magento-connect/integrations/payment-gateways.html?id=12848&s=1&pl=0&te=0&q=India&pr=0:635&t=0&p=1) which support Indian Payment gateways.
+
 **Like:**
 Self-hosted (Offers more control and no recurring charges for software)
 Feature packed platform
 Multiple Payment Gateway support
 Integration with many services
+
 **Dislike**:
 Self-hosted software (Requires IT team/person and hosting)
 Support (Community edition only has forum support)
 UI is not good as other platforms
 Complicated coding (requires Magento specialized developer to add something or functionality)
+
 **Links:**
 [ Magento](http://www.magentocommerce.com/)
 [ Indian Payment gateway Modules](http://www.magentocommerce.com/magento-connect/integrations/payment-gateways.html?id=12848&s=1&pl=0&te=0&q=India&pr=0:635&t=0&p=1)
@@ -150,10 +164,7 @@ I've been watching [Zepo](http://bit.ly/ak-zepo) from its start and now it's ev
 
 **Dislike:**
 
-
-
-	
-  *    Still need some work with design
+*    Still need some work with design
 
 
 **Links:**

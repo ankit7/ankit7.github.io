@@ -11,38 +11,47 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
+        <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
 
     </head>
+
     <body>
-
+      <header>
         <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/about">About</a>
-              <a class="extra" href="/contact">Contact</a>
-              <a class="extra" href="/shopify-stores-in-india">Shopify Stores India</a>
-              <a class="extra" href="/hire-ankit">Hire Me</a>
-            </div>
 
-                {{ content }}
+        <div id="logo">
+          <h2><a href="/">{{ site.name }}</a></h2>
+        </div>
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  Ankit<br />
-                  Freelance Marketing Consultant and Constant Learner<br />
-                  mail@ankitkumar.in
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://twitter.com/akravi/">twitter.com/akravi</a><br />
-                </p>
-              </div>
-            </div>
+          <div id="nav">
+            <ul>
+              <li><a href="/about">About</a></li>
+              <li><a href="/contact">Contact</a></li>
+              <li><a href="/shopify-stores-in-india">Shopify Stores India</a></li>
+              <li><a href="/hire-ankit">Hire Me</a></li>
+            </ul>
           </div>
-        </div> <!-- /container -->
+              
+        </div>
+      </header>
+
+      <div class="container">
+
+        <section id="content">
+                {{ content }}
+        </section>
+
+        <section id="sidebar">
+          <a href="/about"><img src="http://ankitkumar.in/wp-content/uploads/Ankit.jpeg" width="142px" height="142px"></a> <br/>Freelancer, Frequent Tweeter and Movie Buff. <a href="/about">More..</a>
+        </section>
+      </div>
+
+      <footer>
+        <p>Ankit<br />Freelance Marketing Consultant and Constant Learner<br />mail@ankitkumar.in</p> 
+        <p>
+          <a href="http://twitter.com/akravi/">twitter.com/akravi</a><br />
+        </p>
+      </footer> 
 
     </body>
 </html>
