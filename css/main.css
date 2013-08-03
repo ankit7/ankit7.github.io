@@ -119,6 +119,20 @@ footer {
     display: inline-block;
     padding-right: 20px; }
 
+footer .site-source {
+  float: left;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  background: transparent url(http://dl.dropboxusercontent.com/u/19894695/myblog/code.png) 0 2px no-repeat;
+  padding-left: 46px;
+}
+
+footer .intro {
+  float: right;
+  margin-right: 100px;
+  text-align: right;
+}
+
 #nav {
   float: right;
 }
