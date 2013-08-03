@@ -17,10 +17,6 @@ Indian e-commerce sector is booming. I see a new online store every week. Facebo
 ### What do you need to set up an online store?
 
 
-
-
-
-	
   1. Product Catalog
 
 	
