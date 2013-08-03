@@ -47,7 +47,7 @@ p {
 
 header {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 20px 0 20px 0;
+  padding: 20px 0 10px 0;
   background-color: #f7f5e7; }
   header ul {
     list-style: none;
