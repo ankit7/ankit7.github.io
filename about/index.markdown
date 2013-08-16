@@ -1,22 +1,17 @@
 ---
-author: abbot
-comments: true
+
 date: 2010-07-03 07:29:29+00:00
 layout: default
 slug: about
 title: About Ankit
-wordpress_id: 2
----
 
+---
 Hello Friend,
 
 My name is Ankit. First of all, I thank you for showing interest. I feel very honored when someone wants to know about me after looking over my work.
 
 
 Quick link- [Contact](http://ankitkumar.in/contact/)
-
-
-
 
 
 ### **A bit about me**

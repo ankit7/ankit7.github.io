@@ -78,7 +78,7 @@ section#content {
   padding: 40px 40px 40px 0px; }
   section#content img {
     max-width: 668px;
-    border: 2px solid #b9e3e3; }
+    }
   section#content article p {
     margin: 25px 0;
     font-size: 100%;

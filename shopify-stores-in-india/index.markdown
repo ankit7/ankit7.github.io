@@ -8,65 +8,35 @@ wordpress_id: 1261
 
 Did you read how to [setup an Ecommerce store in India](http://ankitkumar.in/how-to-setup-an-ecommerce-store-in-india/)?
 
-
-
-
-
-[![Shopify India](http://ankitkumar.in/wp-content/uploads/300px-Shopify-bag-and-logotype1.png)](http://bit.ly/ak-shopify)
-
-
-
+[![Shopify India](http://dl.dropboxusercontent.com/u/19894695/myblog/Shopify-logo.png)](http://bit.ly/ak-shopify)
 
 These are the some Indian Stores using [Shopify](http://bit.ly/ak-shopify).
 
+1. [Yellow Fashion](http://www.yellowfashion.in/)
 
+2. [AfDay](http://www.afday.com/)
 
-
-
-
-
-
+3. [Fabmart](http://www.fabmart.com)
 	
-  1. [Yellow Fashion](http://www.yellowfashion.in/)
+4. [Nonasties](http://www.nonasties.in/)
 
-	
-  2. [AfDay](http://www.afday.com/)
+5. [ThinkMusic Store](http://store.thinkmusic.in/)
 
-	
-  3. [Fabmart](http://www.fabmart.com)
+6. [Riddhi Online](http://www.riddhionline.com/)
 
-	
-  4. [Nonasties](http://www.nonasties.in/)
+7. [We The PPL](http://www.wetheppl.in/)
 
-	
-  5. [ThinkMusic Store](http://store.thinkmusic.in/)
+8. [Bliss Covered](http://blisscovered.com/)
 
-	
-  6. [Riddhi Online](http://www.riddhionline.com/)
+9. [Krishna Bijoux](http://krishnabijoux.com/)
 
-	
-  7. [We The PPL](http://www.wetheppl.in/)
+10. [Chilli Breeze](http://shop.chillibreeze.com/)
 
-	
-  8. [Bliss Covered](http://blisscovered.com/)
+11. [Poster Gully](http://www.postergully.com/)
 
-	
-  9. [Krishna Bijoux](http://krishnabijoux.com/)
+12. [Parisera](http://www.parisera.com/)
 
-	
-  10. [Chilli Breeze](http://shop.chillibreeze.com/)
-
-	
-  11. [Poster Gully](http://www.postergully.com/)
-
-	
-  12. [Parisera](http://www.parisera.com/)
-
-	
-  13. [iTokri](http://www.itokri.com/)
-
-
-
+13. [iTokri](http://www.itokri.com/)
 
 Do you also use [Shopify](http://bit.ly/ak-shopify) for your Indian e-commerce site? [Contact](http://ankitkumar.in/contact/) me to add your site here.
 
