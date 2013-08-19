@@ -73,7 +73,6 @@ Make your store as much as user-friendly you can. Get a good design, speed-up th
 
 Offer number of features but don’t confuse them with lot of options. Simplicity is also necessary.
 
-An example: [Yepme.com: Store Review](/yepme-review/).
 
 
 ## 4. Customer Retention
