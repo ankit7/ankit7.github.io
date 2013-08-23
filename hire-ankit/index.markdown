@@ -25,9 +25,7 @@ Thanks for being interested in working with me.
 
 **Costs?**
 
-I charge flat $50/hr (2500 Rs/hour) for small projects. Billing and project handling is done via [Elance](http://bit.ly/startby).
-
-For long-term contract, I charge a monthly retainer fee (Minimum $500/month) based on involvement.
+It depends on the nature of the job. But you're looking at minimum $250 for involvement. 
 
 **Interested? **
 
