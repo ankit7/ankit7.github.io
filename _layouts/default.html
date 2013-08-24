@@ -59,14 +59,103 @@
         </section>
 
         <section id="sidebar">
-          <a href="/about"><img src="http://dl.dropboxusercontent.com/u/19894695/myblog/Ankit.jpeg" width="142px" height="142px"></a> <br/>Freelancer, Frequent Tweeter and Movie Buff. <a href="/about">More..</a>
+        <!-- Email Marketing Form -->
+           <form action="https://madmimi.com/signups/subscribe/82814" method="post" id="mad_mimi_signup_form" target="_blank"> 
+       <h3>Subscribe for regular updates</h3>
+    <input id="signup_email" name="signup[email]" type="text" placeholder="you@example.com" data-invalid-message="This field is invalid" class="required"> 
+    <input value="Subscribe!" type="submit" data-default-text="Subscribe!" data-submitting-text="Sending…" data-invalid-text="↑ required"> 
+    </form> 
+<script type="text/javascript">
+(function() {
+  var form = document.getElementById("mad_mimi_signup_form"),
+      submit = document.getElementById("webform_submit_button"),
+      email = /.+@.+\..+/;
+      
+  form.onsubmit = function(event) {
+    var isValid = validate();
+    if(!isValid) {
+      for(var i = 0; i < form.elements.length; ++i) {
+        var input = form.elements[i];
+        if(input.className.indexOf("required") >= 0) {
+          input.onchange = validate;
+        }
+      }
+      return false;
+    }
 
-          <br /><br />
+    setTimeout(function() {
+      for(var i = 0; i < form.getElementsByTagName("input").length; ++i) {
+        var input = form.getElementsByTagName("input")[i];
+        if(input.getAttribute("type") == "text") {
+          input.value = "";
+        }
+        if(input.id == "signup_email") {
+          input.placeholder = "you@example.com";
+        } else {
+          input.placeholder = "";
+        }
+      }
+    }, 3000);
+  };
+  
+  function validate() {
+    var isValid = true;
+    
+    for(var i = 0; i < form.elements.length; ++i) {
+      var input = form.elements[i],
+          allDivs = input.parentNode.getElementsByTagName("div");
 
+      if(input.className.indexOf("required") >= 0) {
+        if(input.id == "signup_email") {
+          if(!email.test(input.value)) {
+            emailErrorMessage(input, allDivs);
+            isValid = false;
+          } else {
+            removeErrorMessage(input, allDivs);
+          }
+        } else {
+          if((input.type == "checkbox" && !input.checked) || input.value == "" || input.value == "-1") {
+            fieldErrorMessage(input, allDivs);
+            isValid = false;
+          } else {
+            removeErrorMessage(input, allDivs);
+          }
+        }
+      }
+    }
+    
+    form.className = isValid ? "" : "mimi_invalid";
+    submit.value = isValid ? submit.getAttribute("data-default-text") : submit.getAttribute("data-invalid-text");
+    submit.disabled = !isValid;
+    submit.className = isValid ? "submit" : "disabled";
+    
+    return isValid;
+  }
+
+  function emailErrorMessage(input, allDivs) {
+    input.className = "required invalid";
+    input.placeholder = input.getAttribute("data-required-message") || "This field is required";
+  }
+
+  function fieldErrorMessage(input, allDivs) {
+    input.className = "required invalid";
+    input.placeholder = input.getAttribute("data-required-message") || "This field is required";
+  }
+
+  function removeErrorMessage(input, allDivs) {
+    input.className = "required";
+  }
+})();
+</script><br><br>
+        <!-- Twitter Profile -->
           <a href="https://twitter.com/akravi" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @akravi</a>
           <script>
             !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
           </script>
+
+          <br><br>
+          
+
         </section>
       </div>
 
