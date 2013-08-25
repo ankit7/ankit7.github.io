@@ -14,7 +14,7 @@ Note- I'll be using a/r as a short-cut for Affiliate/Referral in this article.
 
 You might be wondering if your business needs such campaigns. You’re already spending a good amount of money into different channels. You're doing SEO, PPC, Re-marketing and Social marketing etc. Why invest time and resources in another marketing channel? 
 
-The answer is Yes. You do need a/r marketing campaign. If managed correctly, these campaigns cane become an important asset.
+The answer is Yes. You do need a/r marketing campaign. If managed correctly, these campaigns might become an important asset.
 
 **Some facts:**
 
