@@ -21,7 +21,7 @@ The major problem was use of Shared [SSL](http://en.wikipedia.org/wiki/Certifica
 
 Because if you use shared SSL, all your secure pages will be hosted on subdomain.3dcartstores.com.
 
-And as it is not your primary domain, you need [cross-domain tracking ](//developers.google.com/analytics/devguides/collection/gajs/gaTrackingSite)to keep up the original traffic source between your domain and subdomain of 3dcartstores. Otherwise you will have self-referral issues and Google Analytics will report that all the sales are coming from yourdomain.com/referral.
+And as it is not your primary domain, you need [cross-domain tracking](//developers.google.com/analytics/devguides/collection/gajs/gaTrackingSite) to keep up the original traffic source between your domain and subdomain of 3dcartstores. Otherwise you will have self-referral issues and Google Analytics will report that all the sales are coming from yourdomain.com/referral.
 
 ![3DCart Self Referral](http://dl.dropboxusercontent.com/u/19894695/myblog/3DCart-Self-Referral.png)
 
@@ -32,7 +32,7 @@ Also, I couldn't find any simple cross-domain method for 3DCart. It's really bad
 
 ## How to setup Ecommerce Tracking?
 
-1. First of all, Get a dedicated SSL certificate. Buying it from[ 3DCart](http://www.3dcart.com/ecommerce-ssl-certificates.html) makes more sense because they will offer installation and support.
+1. First of all, Get a dedicated SSL certificate. Buying it from [3DCart](http://www.3dcart.com/ecommerce-ssl-certificates.html) makes more sense because they will offer installation and support.
 
 2. Don't use default Google Analytics plugin in 3DCart! It seems that it doesn't report ecommerce sales correctly.
 
@@ -44,4 +44,4 @@ Also, I couldn't find any simple cross-domain method for 3DCart. It's really bad
 
 And it should work. Now, you can use Google Analytics to track ROI on all your marketing campaigns and channels.
 
-Do you need any help with Analytics for your 3DCart store? Do you want to increase the revenue of your store? [Hire me](http://bit.ly/ankitelance) and let's get started.
+Do you need any help with Analytics for your 3DCart store? Do you want to increase the revenue of your store? [Hire me](http://ankitkumar.in/hire-ankit/) and let's get started.
