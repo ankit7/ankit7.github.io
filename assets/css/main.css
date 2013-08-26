@@ -24,26 +24,24 @@ ul {
   list-style-type: circle; }
 
 ul li {
-  margin-bottom: 10px; }
+  margin-bottom: 5px; }
 
 body {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: 'Roboto Slab', serif;
   font-size: 16px;
-  line-height: 22.4px;
+  font-weight: 300;
+  line-height: 26px;
   margin: 0; }
 
 h1, h2, h3, h4, h5 {
-  font-family: Bitter, Georgia, serif;
-  font-weight: 300;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  color: #333;
   margin-top: 0; }
 
 h1 {
   font-size: 30.4px;
   line-height: 44.8px; }
-
-p {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
-  }
 
 header {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
@@ -82,7 +80,7 @@ section#content {
   section#content article p {
     margin: 25px 0;
     font-size: 100%;
-    line-height: 1.6em; }
+    line-height: 1.75em; }
   section#content h2 {
     line-height: 35.2px; }
   section#content h3 {
