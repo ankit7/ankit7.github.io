@@ -51,19 +51,19 @@ There are a numbers of platforms/tools which can be used. Some of the businesses
 
 If you want to launch your own a/r campaign easily and quickly, you can use the services listed below.
 
-### Referral Candy
-[Referral Candy] (http://bit.ly/ak-rc) is a service which lets you create a referral marketing campaign.
+### ReferralCandy
+[ReferralCandy](http://bit.ly/ak-rc) is a service which lets you create a referral marketing campaign.
 Plans starts from Rs 700/month and it integrates with almost every single ecommerce platform.
 
-Referral Candy Indian customer- FersnPetals
+ReferralCandy Indian customers- Yatra & FersnPetals
 
 ### iDevAffiliate
  [iDevAffiliate] (http://bit.ly/ak-ida) is hosted software for Affiliate Marketing and it integrates with most of the carts/platforms. It also supports Indian currency and its licences are available from $99. 
 
-iDevAffiliate Indian Customer - [Hostgator India] (http://bit.ly/ak-hg)
+iDevAffiliate Indian Customer - [Hostgator India](http://bit.ly/ak-hg)
 
 ### OMGPM
-[OMGPM] (http://in.omgpm.com/) is an affiliate network used by popular merchants. It seems to be most popular affiliate network solution present now.
+[OMGPM](http://in.omgpm.com/) is an affiliate network used by popular merchants. It seems to be most popular affiliate network solution present now.
 
 OMGPM Indian Customers - BabyOYE
 
