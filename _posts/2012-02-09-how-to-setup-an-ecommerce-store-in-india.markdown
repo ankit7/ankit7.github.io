@@ -51,7 +51,7 @@ I've joined the Platform and supported gateways together. Note: I'm not reviewi
 #### **1) Shopify for India with DirecPay/PayU (The Easiest)**
 
 
-![Shopify India](http://dl.dropboxusercontent.com/u/19894695/myblog/Shopify-logo.png)
+![Shopify India](/assets/img/Shopify-logo.png)
 
 No doubt, [Shopify](http://bit.ly/ak-shopify) is the easiest way to start your own store. It's more merchant friendly and has bigger integration portfolio. It has wonderful support for mobile devices. [Shopify](http://bit.ly/ak-shopify) also offers support for Mobile Commerce and your customer can shop using their mobile.
 
@@ -92,7 +92,7 @@ Transaction Cost (Not applicable if you've upgraded plan)
 
 #### **2) Mangento + CCAvenue/DirecPay/PayU (The Popular)**
 
-![magento India](http://dl.dropboxusercontent.com/u/19894695/myblog/magento.png)
+![magento India](/assets/img/magento.png)
 
 Most of the Indian stores are using [Magento](http://www.magentocommerce.com/). Magento is powerful, open source and free for community edition. It's feature packed and integrates with lots of services to offer a good merchant experience.
 
@@ -118,7 +118,7 @@ It has some [modules ](http://www.magentocommerce.com/magento-connect/integratio
 
 #### 3) Zepo with Free Payment Gateway** **and Bluedart Support (The Convenient)
 
-[![Zepo Ecommerce India](http://dl.dropboxusercontent.com/u/19894695/myblog/Zepo.jpg)](http://bit.ly/ak-zepo)
+[![Zepo Ecommerce India](/assets/img/Zepo.jpg)](http://bit.ly/ak-zepo)
 
 I've been watching [Zepo](http://bit.ly/ak-zepo) from its start and now it's evolved into something really admiring. The guys @[Zepo](http://bit.ly/ak-zepo) are keep adding new features and making it really easy to dive into Indian Ecommerce sector.
 

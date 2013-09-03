@@ -95,11 +95,11 @@ There are opportunities lying everywhere in Internet. Some businesses are making
 The mantra is to spread your reach everywhere. It’s not that hard with Internet.
 
 Let me ask you something. How do you promote your business? What are the current quality traffic sources?
-If you can only list 2 or 3 traffic sources, be ready for sudden loss. :)![Multi Channel](http://dl.dropboxusercontent.com/u/19894695/myblog/Multi-Channel.png)
+If you can only list 2 or 3 traffic sources, be ready for sudden loss. :)![Multi Channel](/assets/img/Multi-Channel.png)
 
 If you’re totally depended on search engines, a negative change in ranking algorithm can affect your whole business. If you rely on Ads for traffic, their policy change can bring you to a danger situation.
 
-An ideal marketing strategy should focus on no. of marketing channels. You can use Email Marketing, SEM, Affiliate Marketing, Referral Marketing, Social Media and offline campaigns to diversify your reach.![Distributed Traffic Channel](http://dl.dropboxusercontent.com/u/19894695/myblog/Distributed-Traffic-Channel.png)
+An ideal marketing strategy should focus on no. of marketing channels. You can use Email Marketing, SEM, Affiliate Marketing, Referral Marketing, Social Media and offline campaigns to diversify your reach.![Distributed Traffic Channel](/assets/img/Distributed-Traffic-Channel.png)
 
 Thus you’re not dependent on a single source and they’ll also bring you regular amount of buyers. All it needs good and specified targeting and regular data-driven optimization.
 

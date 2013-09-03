@@ -8,7 +8,7 @@ wordpress_id: 1261
 
 Did you read how to [setup an Ecommerce store in India](http://ankitkumar.in/how-to-setup-an-ecommerce-store-in-india/)?
 
-[![Shopify India](http://dl.dropboxusercontent.com/u/19894695/myblog/Shopify-logo.png)](http://bit.ly/ak-shopify)
+[![Shopify India](/assets/img/Shopify-logo.png)](http://bit.ly/ak-shopify)
 
 These are the some Indian Stores using [Shopify](http://bit.ly/ak-shopify).
 

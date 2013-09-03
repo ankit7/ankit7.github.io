@@ -1,0 +1,17 @@
+<!-- Google Code for Purchase Conversion Page --> 
+<script language="JavaScript" type="text/javascript"> 
+<!-- 
+var google_conversion_id = Your-Merchant-ID-Here;
+var google_conversion_language = "en_US"; 
+var google_conversion_format = "1"; 
+var google_conversion_color = "666666"; 
+if (%%ORDER_AMOUNT%%) {
+var google_conversion_value = %%ORDER_AMOUNT%%;
+} var google_conversion_label = "Purchase"; 
+//--> 
+</script> 
+<script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js"> 
+</script> 
+<noscript> 
+<img height=1 width=1 border=0 src="http://www.googleadservices.com/pagead/conversion/Your-Merchant-ID-Here/?value=1&label=Purchase&script=0"> 
+</noscript>

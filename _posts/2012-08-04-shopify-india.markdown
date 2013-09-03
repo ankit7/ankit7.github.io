@@ -9,7 +9,7 @@ title: Story of a Indian choosing Shopify
 
 Last time I checked my [Shopify](http://bit.ly/ak-shopify) Partner's account and found that I've referred 100 people there. They used Shopify's based on my recommendation.
 
-![Shopify India](http://dl.dropboxusercontent.com/u/19894695/myblog/Shopify-India.png)
+![Shopify India](/assets/img/Shopify-India.png)
 
 Thanks a lot for your love friends and I really owe you all for this. Thanks a ton!
 
