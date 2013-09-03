@@ -4,6 +4,18 @@ layout: default
 <h1>{{ page.title }}</h1>
 <div class="post">
 {{ content }}
+<hr>
+<h3>
+            <b>Other Posts You May Enjoy</b>
+          </h3>
+          {% for post in site.posts limit: 5 %}
+            <p> 
+              <a href = "{{ post.url }}">{{ post.title }}</a>
+            </p>
+          {% endfor %}
+
+
+<hr>
 
 <a onclick="ga('send', 'event', 'links', 'http://twitter.com/akravi');" href="http://twitter.com/akravi">Comment via Twitter</a>
 </div>

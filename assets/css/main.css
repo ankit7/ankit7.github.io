@@ -67,6 +67,29 @@ section#sidebar {
   margin-top: 40px;
   width: 222px;
   float: left; }
+  section#sidebar input[type="text"] {
+  width: 205px;
+  padding: 6px;
+  border: 1px solid #ddd;
+  border-top-color: #aaa;
+  border-left-color: #aaa;
+  }
+  section#sidebar input[type="submit"] {
+  background-color: #F8F8F8;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#dedede));
+  background-image: -moz-linear-gradient(top, #ffffff, #dedede);
+  background-image: -o-linear-gradient(top, #ffffff, #dedede);
+  background-image: -ms-linear-gradient(top, #ffffff, #dedede);
+  background-image: linear-gradient(top, #ffffff, #dedede);
+  border: #CCC solid 1px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  font-weight: normal;
+  color: #333;
+  cursor: pointer;
+  }
+  section#sidebar p {
+    font-size: 12px;
+  }
 
 section#content {
   width: 714px;
@@ -137,4 +160,16 @@ footer .intro {
 
 #logo {
   float: left;
+}
+
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+cursor: pointer;
+-webkit-appearance: button;
+}
+
+.avatar {
+border-radius: 50%;
+display: block;
+margin-right: 20px;
+margin-right: 2rem;
 }
