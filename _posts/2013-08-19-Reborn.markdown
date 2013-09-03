@@ -30,13 +30,6 @@ There is nothing wrong with WordPress. I still use WordPress for some other site
 
 * I can focus more on writing now. I used to spend a lot of time in changing themes, adding new features but with Jekyll minimalism comes for free.
 
-## What about the Comments?
-
-I was having trouble with the decision of having a comment feature on the new blog. I even tried to backup the comment using Disqus but somehow it didn't work. 
-
-I am not a frequent publisher. Accordign to my previous experience, commenting was just a way to express "thank you" or asking questions. The contact page or my twitter handler are is good for that.
-
-So, no more comments here folks! Sorry about that!
 
 ## What about the costs with Jekyll?
 
