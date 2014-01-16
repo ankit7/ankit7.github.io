@@ -1,10 +1,8 @@
 ---
-
 date: 2011-09-06 20:51:48+00:00
 layout: post
 slug: conversion-tracking-for-interspirebigcommerce
 title: Bigcommerce and Interspire Conversion tracking
-
 ---
 
 [BigCommerce](http://bit.ly/ak-bc) (hosted version of [Interspire](http://www.interspire.com/)) is a feature rich [Ecommerce platform](http://ankitkumar.in/ecommerce-platform/). It's one of the most complete eCommerce platform out there.
@@ -27,14 +25,15 @@ Notes:
 
 Steps:
 
-1. Go to _Affiliate Setting**.![Affiliate Setting for Bigcommerce](http://dl.dropboxusercontent.com/u/19894695/myblog/affiliate-tracking0011.png)
-**_
+1. Go to Affiliate Setting.
+![Affiliate Setting for Bigcommerce](http://dl.dropboxusercontent.com/u/19894695/myblog/affiliate-tracking0011.png)
 
-	
-  2. Just paste [this code](http://dl.dropboxusercontent.com/u/19894695/myblog/Conversion-tracking-Bigcommerce.txt) in the Conversion Tracking Code box. Don't forget to replace 'Your-merchant-ID'  with your own Adwords Merchant ID in the following file.![Conversion tracking Code Bigcommerce](http://dl.dropboxusercontent.com/u/19894695/myblog/affiliate-tracking0021.png)
+
+2. Just paste [this code](http://dl.dropboxusercontent.com/u/19894695/myblog/Conversion-tracking-Bigcommerce.txt) in the Conversion Tracking Code box. Don't forget to replace 'Your-merchant-ID'  with your own Adwords Merchant ID in the following file.![Conversion tracking Code Bigcommerce](http://dl.dropboxusercontent.com/u/19894695/myblog/affiliate-tracking0021.png)
 
 	
   3. Now do a test order and check for the '**Amount**'  in thank-you page source. It should match your transaction value.
 
 
 Did you it useful? Please share it with others!
+
