@@ -25,7 +25,7 @@ Thanks for being interested in working with me.
 
 **Costs?**
 
-It depends on the nature of the job. But you're looking at minimum $250 for involvement. 
+It depends on the nature and engagement but most people think I am affordable.
 
 **Interested? **
 
