@@ -6,6 +6,8 @@ title: How to setup an eCommerce Store in India?
 
 ---
 
+**I'm working on a updated version of this article and will publish it soon.**
+
 Indian e-commerce sector is booming. I see a new online store every week. Facebook ads are filled by new cloths, electronics, footwear etc. 
 
 ## E-commerce Store ABC
