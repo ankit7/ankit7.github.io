@@ -55,7 +55,7 @@ I've joined the Platform and supported gateways together. Note: I'm not reviewi
 
 ![Shopify India](/assets/img/Shopify-logo.png)
 
-No doubt, [Shopify](http://bit.ly/ak-shopify) is the easiest way to start your own store. It's more merchant friendly and has bigger integration portfolio. It has wonderful support for mobile devices. [Shopify](http://bit.ly/ak-shopify) also offers support for Mobile Commerce and your customer can shop using their mobile.
+No doubt, [Shopify](http://bit.ly/1iV44Jv) is the easiest way to start your own store. It's more merchant friendly and has bigger integration portfolio. It has wonderful support for mobile devices. [Shopify](http://bit.ly/1iV44Jv) also offers support for Mobile Commerce and your customer can shop using their mobile.
 
 DirecyPay used to be the single option as a payment gateway for Indian retailers. Shopify recently added PayU as additional payment gateway and now things are easier.
 
@@ -85,7 +85,7 @@ Transaction Cost (Not applicable if you've upgraded plan)
  **Links:**
 
 
-[Shopify](http://bit.ly/ak-shopify)
+[Shopify](http://bit.ly/1iV44Jv)
 
 [DirecPay](http://www.timesofmoney.com/direcpay/jsp/home.jsp)
 
