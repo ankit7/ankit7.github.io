@@ -1,6 +1,6 @@
 ---
 date: 2013-04-06 00:19:33+00:00
-layout: default
+layout: page
 slug: hire-ankit
 title: Let's work together!
 wordpress_id: 1766

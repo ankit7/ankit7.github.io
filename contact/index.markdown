@@ -1,6 +1,6 @@
 ---
 date: 2010-08-21 15:35:13+00:00
-layout: default
+layout: page
 slug: contact
 title: Contact Ankit
 

@@ -1,3 +1,23 @@
-name: Ankit Kumar
-pygments: true
-permalink: :title
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        :title
+relative_permalinks: true
+
+# Setup
+title:            Ankit Kumar
+tagline:          'Ecommerce Consultant India'
+description:      'A blog about Digital Marketing, Ecommerce, Analytics and random thoughts.'
+url:              http://ankitkumar.in
+baseurl:          /
+
+author:
+  name:           'Ankit Kumar'
+  url:            https://twitter.com/akravi
+
+paginate:         5
+
+# Custom vars
+version:          3.1
