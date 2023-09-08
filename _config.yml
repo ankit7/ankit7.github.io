@@ -1,23 +1,12 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        :title
-relative_permalinks: true
-
-# Setup
-title:            Ankit Kumar
-tagline:          'Ecommerce Consultant India'
-description:      'A blog about Digital Marketing, Ecommerce, Analytics and random thoughts.'
-url:              http://ankitkumar.in
-baseurl:          /
-
-author:
-  name:           'Ankit Kumar'
-  url:            https://twitter.com/akravi
-
-paginate:         5
-
-# Custom vars
-version:          3.1
+title: Random Bits
+description: >- # this means to ignore newlines until "baseurl:"
+  Random bits on nothing specfic.
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: akravi
+github_username: ankit7
+permalink: /:slug/
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
