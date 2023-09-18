@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Shopify Stores in India
 permalink: /shopify-stores-in-india/
 exclude: true

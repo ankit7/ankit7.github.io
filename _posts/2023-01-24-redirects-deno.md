@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Free Redirects multiple domains/URLs using Deno Deploy'
 permalink: /free-redirects-multiple-domains-urls-using-deno-deploy/
 ---

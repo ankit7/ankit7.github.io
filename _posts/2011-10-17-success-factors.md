@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '5 Key success factors for E-Commerce Business'
 permalink: /5-key-success-factors-for-e-commerce-business/
 ---
