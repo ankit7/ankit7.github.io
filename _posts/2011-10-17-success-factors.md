@@ -72,8 +72,7 @@ There are opportunities lying everywhere in Internet. Some businesses are making
 
 The mantra is to spread your reach everywhere. It’s not that hard with Internet.
 
-Let me ask you something. How do you promote your business? What are the current quality traffic sources? If you can only list 2 or 3 traffic sources, be ready for sudden loss. ![🙂](https://s.w.org/images/core/emoji/14.0.0/svg/1f642.svg)
-
+Let me ask you something. How do you promote your business? What are the current quality traffic sources? If you can only list 2 or 3 traffic sources, be ready for sudden loss. !
 ![distributed-traffic-channel](https://i0.wp.com/ankitkumar.in/wp-content/uploads/Distributed-Traffic-Channel-1.png?resize=300%2C203&ssl=1)
 
 If you’re totally depended on search engines, a negative change in ranking algorithm can affect your whole business. If you rely on Ads for traffic, their policy change can bring you to a danger situation.
