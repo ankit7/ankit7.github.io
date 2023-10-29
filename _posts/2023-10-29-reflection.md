@@ -1,6 +1,6 @@
 ---
 title: 'The yearly wishes '
-permalink: /reflections/
+permalink: /reflection/
 ---
 I'm a year older today. Never liked my birthdays. The idea of another year passed and discontent is uncomfortable.
 
