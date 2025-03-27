@@ -12,6 +12,11 @@
 body,
 html {
   font-family: Georgia, Times, Times New Roman, serif;
+  background-color: #000;
+  color: #ccc;
+}
+a {
+  color: #fff;
 }
 .lh-copy {
   line-height: 1.5;
