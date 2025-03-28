@@ -13,10 +13,13 @@ body,
 html {
   font-family: Georgia, Times, Times New Roman, serif;
   background-color: #000;
-  color: #ccc;
+  color: rgb(234, 236, 240);
 }
 a {
-  color: #fff;
+  color: rgb(136, 163, 232);
+}
+a:visited {
+  color: #a799cd;
 }
 .lh-copy {
   line-height: 1.5;
@@ -82,27 +85,12 @@ h1.post-title {
   outline: 1px dotted currentColor;
 }
 
-.mid-gray {
-  color: #555;
-}
-
 .ph2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
 }
 .f6 {
   font-size: 0.875rem;
-}
-
-.dim {
-  opacity: 1;
-  transition: opacity 0.15s ease-in;
-}
-
-.dim:hover,
-.dim:focus {
-  opacity: 0.5;
-  transition: opacity 0.15s ease-in;
 }
 
 .dim:active {
