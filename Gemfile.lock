@@ -8,6 +8,8 @@ GEM
       tzinfo (~> 2.0)
     addressable (2.8.5)
       public_suffix (>= 2.0.2, < 6.0)
+    base64 (0.3.0)
+    bigdecimal (3.2.2)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -15,6 +17,7 @@ GEM
     colorator (1.1.0)
     commonmarker (0.23.10)
     concurrent-ruby (1.2.2)
+    csv (3.3.5)
     dnsruby (1.70.0)
       simpleidn (~> 0.2.1)
     em-websocket (0.5.3)
@@ -254,8 +257,12 @@ GEM
 PLATFORMS
   arm64-darwin-22
   arm64-darwin-23
+  arm64-darwin-24
 
 DEPENDENCIES
+  base64
+  bigdecimal
+  csv
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
