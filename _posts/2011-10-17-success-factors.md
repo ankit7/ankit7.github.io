@@ -21,10 +21,10 @@ Now, How can you build a strong brand if you’re totally new?
 
 These are the effective ways to build a stronger brand using Internet for a new business.
 
-1.  **Unique Design**:  Good enough to hold them! If you’re able to amaze them, you can sell even more. Get a Logo and designed website. It doesn’t cost you much if you use service like [Elance](http://bit.ly/ak-elance).
+1.  **Unique Design**:  Good enough to hold them! If you’re able to amaze them, you can sell even more. Get a Logo and designed website. It doesn’t cost you much if you use service like [UpWork](https://www.upwork.com).
 2.  **Utilize Social Networks**: Facebook, Twitter and LinkedIn presence are very helpful here. They got some very innovative products (Twitter Promoted, Facebook Ads etc) to promote a brand. Spend some time to discover the ‘best practices’.
 3.  _**Run multiple Display Advertising Campaigns**:_ Let them remember your name and what you do.
-4.  ****_Participate in conversation and Q&A sites and answer every questions about your brand_****
+4.  **_Participate in conversation and Q&A sites and answer every questions about your brand_**
 5.  **Showcase your Testimonials, Reviews and feedback across the site and networks**
 
 2\. USP

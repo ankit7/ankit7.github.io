@@ -12,18 +12,16 @@
 body,
 html {
   font-family: Georgia, Times, Times New Roman, serif;
-  background-color: #1a202c;
-  color: #d1d5db;
+  background-color: #fffdf2;
+  color: #552619;
   font-size: 18px;
+  line-height: 1.5;
 }
 a {
   color: rgb(136, 163, 232);
 }
 a:visited {
   color: #a799cd;
-}
-.lh-copy {
-  line-height: 2;
 }
 
 h1.post-title {
@@ -64,6 +62,10 @@ h1.post-title {
 
 .dib {
   display: inline-block;
+}
+
+li {
+  margin-bottom: 0.5rem;
 }
 
 .link {
@@ -122,7 +124,7 @@ h1.post-title {
 .left-0 {
   left: 0;
 }
-mt0 {
+.mt0 {
   margin-top: var(--spacing-none);
 }
 .mt1 {
