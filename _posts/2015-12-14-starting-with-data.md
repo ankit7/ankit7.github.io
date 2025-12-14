@@ -1,7 +1,7 @@
 ---
 title: Just start with data
 ---
-I asked Grok about my biggest blind spots, inspired by Mark Manson't prompts, and it returned the following answers.
+I asked Grok about my biggest blind spots, inspired by Mark Manson's prompts, and it returned the following answers.
 
 1. You undervalue your own time massively
 2. You’re allergic to asking for help early
