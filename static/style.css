@@ -166,3 +166,12 @@ li {
     font-size: 3rem;
   }
 }
+blockquote {
+  display: block;
+  margin: 1rem 0;
+  padding: 0.25rem 1rem;
+  border-right: none;
+  border-left: 0.25rem solid rgb(231, 234, 239.5);
+  border-inline-start: 0.25rem solid rgb(231, 234, 239.5);
+  border-inline-end: none;
+}
