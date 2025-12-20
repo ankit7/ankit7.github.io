@@ -7,13 +7,12 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{page.title}}</h1>
     <small class="post-meta">
       <time class="dt-published" itemprop="datePublished">{{ page.date | date: " %B %d, %Y"}}
-      </time>
+      </time>, {{ content | number_of_words }} words
     </small>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    <p><small>{{ content | number_of_words }} words long</small></p>
   </div>
   <a class="u-url" href="{{page.url}}" hidden=""></a>
 </article>
