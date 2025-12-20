@@ -11,3 +11,4 @@ theme: minima
 plugins:
   - jekyll-feed
 show_excerpts: true
+exclude: ['scripts']
