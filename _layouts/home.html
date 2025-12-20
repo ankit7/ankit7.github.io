@@ -25,13 +25,13 @@ layout: default
   <ul class="post-list" style="padding-left: 0;">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in posts -%}
-    <li class="flex items-center"
-      style="list-style: none; border-bottom: 1px dotted #000; justify-content: space-between; ">
+    <li class="flex"
+      style="list-style: none; border-bottom: 1px dotted #000; justify-content: space-between; gap: 1rem; margin-bottom: 1rem;">
       <a class="post-link" href="{{ post.url | relative_url }}" style="text-decoration: none;">
         {{ post.title | escape }}
       </a>
 
-      <em><small class="post-meta">{{ post.date | date: date_format }}</small></em>
+      <em style="flex-shrink: 0;"><small class=" post-meta">{{ post.date | date: date_format }}</small></em>
     </li>
     {%- endfor -%}
   </ul>
