@@ -10,5 +10,11 @@ permalink: /:slug/
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 show_excerpts: true
 exclude: ['scripts']
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    posts:
+      permalink:

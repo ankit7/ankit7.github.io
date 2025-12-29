@@ -25,3 +25,4 @@ gem "csv"
 gem "base64"
 gem "bigdecimal"
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jemoji'
