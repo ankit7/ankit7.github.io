@@ -24,3 +24,4 @@ gem "webrick", "~> 1.8"
 gem "csv"
 gem "base64"
 gem "bigdecimal"
+gem 'jekyll-compose', group: [:jekyll_plugins]
