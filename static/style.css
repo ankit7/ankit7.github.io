@@ -175,3 +175,8 @@ blockquote {
   border-inline-start: 0.25rem solid rgb(231, 234, 239.5);
   border-inline-end: none;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
