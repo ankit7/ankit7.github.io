@@ -180,3 +180,40 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+th,
+td {
+  padding: 0.45rem 1rem 0.45rem 0;
+  text-align: left;
+  vertical-align: top;
+}
+
+th:last-child,
+td:last-child {
+  padding-right: 0;
+}
+
+th {
+  font-weight: 700;
+  border-bottom: 1px solid currentColor;
+}
+
+td {
+  border-bottom: 1px solid rgba(85, 38, 25, 0.15);
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+.post-content {
+  overflow-x: auto;
+}
